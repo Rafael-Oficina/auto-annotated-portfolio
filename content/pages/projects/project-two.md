@@ -30,7 +30,7 @@ media:
 backgroundImage:
   type: BackgroundImage
   url: /images/mathias-reding-ZHqCrllTaeM-unsplash.jpg
-  backgroundSize: auto
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
