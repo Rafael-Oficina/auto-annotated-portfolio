@@ -19,4 +19,11 @@ media:
   muted: false
   controls: true
   aspectRatio: '16:9'
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: left-top
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
