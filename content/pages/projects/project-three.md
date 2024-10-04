@@ -5,9 +5,9 @@ colors: colors-a
 date: '2023-01-20'
 client: Rafael Martins
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Bem vindo ao CEGO ATÉ AO ALGARVE, neste jogo vais estar numa viagem dentro de
+  Portugal em que tu és o Sr. Cego e o teu objetivo é traze-lo vivo até ao
+  Algarve.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
