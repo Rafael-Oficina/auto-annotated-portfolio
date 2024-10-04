@@ -21,7 +21,7 @@ media:
   aspectRatio: '16:9'
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/mathias-reding-ZHqCrllTaeM-unsplash.jpg
   backgroundSize: cover
   backgroundPosition: left-top
   backgroundRepeat: no-repeat
