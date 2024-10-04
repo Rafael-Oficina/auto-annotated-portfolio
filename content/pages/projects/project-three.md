@@ -12,5 +12,15 @@ featuredImage:
   type: ImageBlock
   url: /images/smartmockups_m1uu3cik.jpg
   altText: Project thumbnail image
+media:
+  type: VideoBlock
+  title: Title of the video
+  url: 'https://youtu.be/BD-YliszGkA'
+  elementId: ''
+  autoplay: false
+  loop: false
+  muted: false
+  controls: true
+  aspectRatio: '16:9'
 ---
 Este projeto foi realizado em para avaliação de um modulo onde tínhamos de construir um Text-based game na linguagem Python.
