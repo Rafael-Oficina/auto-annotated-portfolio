@@ -15,4 +15,10 @@ media:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-04 155951.png
   altText: Project image
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
