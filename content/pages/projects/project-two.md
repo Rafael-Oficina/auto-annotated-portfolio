@@ -3,7 +3,7 @@ type: ProjectLayout
 title: RAPPERS LINKS
 colors: colors-a
 date: '2024-06-03'
-client: Awesome client
+client: Rafael Martins
 description: >-
   Este projeto consiste na criação de um site onde o utilizador pode encontrar
   link de músicas dealguns artista do RAP passando pela escolha do Artista, logo
