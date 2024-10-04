@@ -4,13 +4,7 @@ title: RAPPERS LINKS
 colors: colors-a
 date: '2024-06-03'
 client: Awesome client
-description: >-
-  Este projeto consiste na criação de um site onde o utilizador pode encontrar
-  link de músicas dealguns artista do RAP passando pela escolha do Artista, logo
-  de seguida do álbum que o utilizadorquer e logo de seguida escolhe todas as
-  músicas que quer ter o link que o irá levar para o Spotify.Neste projeto foi
-  usada uma base de dados onde guarda os artistas os álbuns e as
-  respetivasmúsicas.
+description: ''
 media:
   type: ImageBlock
   url: /images/bg2.jpg
