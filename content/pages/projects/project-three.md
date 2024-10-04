@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Captura de ecrã 2024-10-04 153339.png
   altText: Project image
 ---
 Este projeto foi realizado em para avaliação de um modulo onde tínhamos de construir um Text-based game na linguagem Python.
