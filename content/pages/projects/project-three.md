@@ -10,7 +10,7 @@ description: >-
   Algarve.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/smartmockups_m1uu3cik.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
