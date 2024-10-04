@@ -11,10 +11,6 @@ description: >-
   músicas que quer ter o link que o irá levar para o Spotify.Neste projeto foi
   usada uma base de dados onde guarda os artistas os álbuns e as
   respetivasmúsicas.
-media:
-  type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-04 155951.png
-  altText: Project image
 featuredImage:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-04 155951.png
