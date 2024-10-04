@@ -5,9 +5,7 @@ colors: colors-a
 date: '2024-06-03'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  https://github.com/Rafael-Oficina/rappers-links/tree/main/2I-REDES-M7-TUTORIAL-RAFAEL-MARTINS-PP02/etapa2
 media:
   type: ImageBlock
   url: /images/bg2.jpg
