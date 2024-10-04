@@ -7,6 +7,6 @@ client: Awesome client
 description: ''
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Captura de ecrã 2024-10-04 155951.png
   altText: Project image
 ---
