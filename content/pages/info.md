@@ -147,7 +147,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: 'https://www.figma.com/@rafael_oficina'
+            label: Figma
             url: 'https://www.figma.com/@rafael_oficina'
         styles:
           self:
