@@ -221,7 +221,7 @@ sections:
       - type: Label
         label: SQL Server
       - type: Label
-        label: Swift
+        label: Hardware
   - type: DividerSection
     styles:
       self:
