@@ -257,26 +257,47 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: >+
           **Current**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Membro do Grupo de Jovens Maranata
 
-          * fullstack at this startup
 
-          **2015**
+          *   Guitarrista no Coro Infantil de Carvalhosa
 
-          * senior front-end at this place
 
-          **2013**
 
-          * intern developer at a big company
 
-          **2011**
+          **Formação escolar**
 
-          * flipping burgers
+
+          *   Participação no BGREEN 2024
+
+
+          *   Participação na semana UBUNTU
+
+
+          *   Formação em contexto de trabalho - 133 horas - Na empresa
+          ImparPower
+
+
+          *   Participação no Festival Nacional de Robótica’24
+
+
+
+
+          **Workshops**
+
+
+          *   Participação no Workshop CITEVE
+
+
+          *   Participação no Projeto BGREEN
+
+
+          *   Participação na Palestra “BULLYING”
+
         styles:
           self:
             textAlign: left
