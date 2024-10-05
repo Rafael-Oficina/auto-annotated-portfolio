@@ -139,7 +139,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
+            label: Instagram
             url: 'https://www.instagram.com/rafaell9607/'
         styles:
           self:
