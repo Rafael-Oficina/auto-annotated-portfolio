@@ -132,7 +132,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://www.linkedin.com/in/rafael-martins-14aa01262/'
         styles:
           self:
             textAlign: left
