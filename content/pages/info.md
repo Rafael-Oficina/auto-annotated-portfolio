@@ -211,7 +211,7 @@ sections:
       - type: Label
         label: HTML5
       - type: Label
-        label: Microsoft Office
+        label: Java
       - type: Label
         label: Next.js
       - type: Label
