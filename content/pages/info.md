@@ -258,15 +258,13 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: >+
-          **Current**
+          **Experiências**
 
 
           *   Membro do Grupo de Jovens Maranata
 
 
           *   Guitarrista no Coro Infantil de Carvalhosa
-
-
 
 
           **Formação escolar**
@@ -283,8 +281,6 @@ sections:
 
 
           *   Participação no Festival Nacional de Robótica’24
-
-
 
 
           **Workshops**
