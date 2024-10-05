@@ -164,7 +164,7 @@ sections:
         actions:
           - type: Link
             label: ''
-            url: 'https://www.instagram.com/rafaell9607/'
+            url: ''
         styles:
           self:
             textAlign: left
