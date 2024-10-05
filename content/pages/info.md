@@ -147,7 +147,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
+            label: 'https://www.figma.com/@rafael_oficina'
             url: 'https://codepen.io/'
         styles:
           self:
