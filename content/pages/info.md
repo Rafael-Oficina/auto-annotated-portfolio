@@ -148,7 +148,7 @@ sections:
         actions:
           - type: Link
             label: 'https://www.figma.com/@rafael_oficina'
-            url: 'https://codepen.io/'
+            url: 'https://www.figma.com/@rafael_oficina'
         styles:
           self:
             textAlign: left
