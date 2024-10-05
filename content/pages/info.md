@@ -213,7 +213,7 @@ sections:
       - type: Label
         label: Java
       - type: Label
-        label: Next.js
+        label: C/C++
       - type: Label
         label: Netlify
       - type: Label
