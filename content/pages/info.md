@@ -156,7 +156,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://replit.com/@Rafael-CostaCos'
         styles:
           self:
             textAlign: left
