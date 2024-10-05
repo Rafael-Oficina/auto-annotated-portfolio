@@ -287,18 +287,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2022-2025**
 
-          * ba computer sciense at a semi fancy school
+          *   OFICINA - Escola Profissional do Instituto  Nun’ Alvres
 
-          **2014**
+          **2017-2022**
 
-          * react certificate somewhere
+          *   Escola EB 2,3 de Eiriz
 
-          **2011**
+          **2015-2023**
 
-          * my highschool
+          *   Paços Rock School (escola de música)
+
         styles:
           self:
             textAlign: left
