@@ -215,7 +215,7 @@ sections:
       - type: Label
         label: C/C++
       - type: Label
-        label: Netlify
+        label: C#
       - type: Label
         label: Pancakes
       - type: Label
