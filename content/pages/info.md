@@ -131,7 +131,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
+            label: Linkedin
             url: 'https://www.linkedin.com/in/rafael-martins-14aa01262/'
         styles:
           self:
