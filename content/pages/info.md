@@ -163,7 +163,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram
+            label: ''
             url: 'https://www.instagram.com/rafaell9607/'
         styles:
           self:
