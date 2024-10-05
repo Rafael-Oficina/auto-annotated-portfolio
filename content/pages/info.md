@@ -256,7 +256,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: 'Experiências:'
         text: >+
           *   Membro do Grupo de Jovens Maranata
 
