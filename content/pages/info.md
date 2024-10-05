@@ -155,7 +155,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: Replit
             url: 'https://replit.com/@Rafael-CostaCos'
         styles:
           self:
