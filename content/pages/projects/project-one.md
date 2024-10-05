@@ -23,7 +23,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/mathias-reding-ZHqCrllTaeM-unsplash.jpg
   backgroundSize: cover
-  backgroundPosition: left-top
+  backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
 ---
