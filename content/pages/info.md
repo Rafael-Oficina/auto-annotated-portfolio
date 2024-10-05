@@ -239,7 +239,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [a14356@oficina.pt](mailto:thisismyemail.@myemail.me)
+      <a14356@oficina.pt>            |            <rafael2007escola@gmail.com>
   - type: DividerSection
     styles:
       self:
