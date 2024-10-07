@@ -14,7 +14,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-04 155951.png
-  altText: altText of the image
+  altText: ''
   caption: Caption of the image
   elementId: ''
 media:
