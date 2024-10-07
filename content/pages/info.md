@@ -4,23 +4,24 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/mathias-reding-ZHqCrllTaeM-unsplash.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 30
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Sou um aluno do c[urso Técnico de Gestão e Programação de Sistemas
+      Informáticos](https://oficina.pt/index.php/oferta-educativa-cursos-oficina-escola-profissional/cursos-profissionais/tecnico-de-gestao-e-prog-de-sist-informaticos)
+      na OFICINA - Escola Profissional do INA. Pretendo realizar a minha
+      Formação em Contexto de trabalho na área da programação.
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/1728158078535.png
       altText: Hero image
     styles:
       self:
@@ -58,65 +59,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -124,39 +66,15 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/Rafael-Oficina'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            label: Linkedin
+            url: 'https://www.linkedin.com/in/rafael-martins-14aa01262/'
         styles:
           self:
             textAlign: left
@@ -164,7 +82,31 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/rafaell9607/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Figma
+            url: 'https://www.figma.com/@rafael_oficina'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Replit
+            url: 'https://replit.com/@Rafael-CostaCos'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: ''
+            url: ''
         styles:
           self:
             textAlign: left
@@ -189,7 +131,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: 'Onde me encontrar:'
   - type: DividerSection
     styles:
       self:
@@ -204,24 +146,24 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: 'Competências profissionais:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Python
       - type: Label
-        label: React
+        label: HTML5
       - type: Label
-        label: Microsoft Office
+        label: Java
       - type: Label
-        label: Next.js
+        label: C/C++
       - type: Label
-        label: Netlify
+        label: C#
       - type: Label
-        label: Pancakes
+        label: MySQL
       - type: Label
-        label: C++
+        label: SQL Server
       - type: Label
-        label: Swift
+        label: Hardware
   - type: DividerSection
     styles:
       self:
@@ -236,10 +178,10 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
+    subtitle: 'Contacto:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <a14356@oficina.pt>            |            <rafael2007escola@gmail.com>
   - type: DividerSection
     styles:
       self:
@@ -256,27 +198,44 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
+        subtitle: 'Experiências:'
+        text: >+
+          *   Membro do Grupo de Jovens Maranata
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          <!---->
 
-          * fullstack at this startup
 
-          **2015**
+          *   Guitarrista no Coro Infantil de Carvalhosa
 
-          * senior front-end at this place
 
-          **2013**
+          **Formação escolar**
 
-          * intern developer at a big company
 
-          **2011**
+          *   Participação no BGREEN 2024
 
-          * flipping burgers
+
+          *   Participação na semana UBUNTU
+
+
+          *   Formação em contexto de trabalho - 133 horas - Na empresa
+          ImparPower
+
+
+          *   Participação no Festival Nacional de Robótica’24
+
+
+          **Workshops**
+
+
+          *   Participação no Workshop CITEVE
+
+
+          *   Participação no Projeto BGREEN
+
+
+          *   Participação na Palestra “BULLYING”
+
         styles:
           self:
             textAlign: left
@@ -287,18 +246,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2022-2025**
 
-          * ba computer sciense at a semi fancy school
+          *   OFICINA - Escola Profissional do Instituto  Nun’ Alvres
 
-          **2014**
+          **2017-2022**
 
-          * react certificate somewhere
+          *   Escola EB 2,3 de Eiriz
 
-          **2011**
+          **2015-2023**
 
-          * my highschool
+          *   Paços Rock School (escola de música)
+
         styles:
           self:
             textAlign: left
@@ -347,7 +307,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "Vamos falar... \U0001F4AC"
     colors: colors-f
     form:
       type: FormBlock
@@ -356,14 +316,14 @@ sections:
         - name: firstName
           label: First Name
           hideLabel: true
-          placeholder: First Name
+          placeholder: Primeiro Nome
           isRequired: true
           width: 1/2
           type: TextFormControl
         - name: lastName
           label: Last Name
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Último Nome
           isRequired: false
           width: 1/2
           type: TextFormControl
@@ -377,16 +337,16 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Conte-me sobre o seu projeto
           isRequired: true
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: Subscreva para receber a minha resposta
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Enviar \U0001F680"
       styles:
         submitLabel:
           textAlign: center
