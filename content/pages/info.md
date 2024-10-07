@@ -130,7 +130,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: Onde me encontrar
   - type: DividerSection
     styles:
       self:
