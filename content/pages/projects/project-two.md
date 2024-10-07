@@ -42,7 +42,7 @@ bottomSections:
       - type: Button
         label: Clique aqui
         altText: ''
-        url: /
+        url: 'https://github.com/Rafael-Oficina/rappers-links'
         showIcon: true
         icon: arrowRight
         iconPosition: right
