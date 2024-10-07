@@ -59,7 +59,7 @@ bottomSections:
         justifyContent: flex-start
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/mathias-reding-ZHqCrllTaeM-unsplash.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
