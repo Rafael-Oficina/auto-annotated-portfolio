@@ -28,7 +28,7 @@ bottomSections:
       - type: Button
         label: Try it now
         altText: ''
-        url: 'https://github.com/Rafael-Oficina/php-login'
+        url: 'https://github.com/Rafael-Oficina/exercicio-elementor'
         showIcon: true
         icon: arrowRight
         iconPosition: right
