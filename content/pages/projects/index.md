@@ -66,7 +66,7 @@ bottomSections:
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Inscreva-me para receber minhas palavras
+          label: Sign me up to recieve my words
           isRequired: false
           width: full
           type: CheckboxFormControl
