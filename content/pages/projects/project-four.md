@@ -26,7 +26,7 @@ bottomSections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Clica aqui
         altText: ''
         url: 'https://github.com/Rafael-Oficina/exercicio-elementor'
         showIcon: true
