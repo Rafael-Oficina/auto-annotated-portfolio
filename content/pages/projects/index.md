@@ -47,7 +47,7 @@ bottomSections:
         - name: lastName
           label: Last Name
           hideLabel: true
-          placeholder: Ultimo Nome
+          placeholder: Último Nome
           isRequired: false
           width: 1/2
           type: TextFormControl
