@@ -40,7 +40,7 @@ bottomSections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Clique aqui
         altText: ''
         url: /
         showIcon: true
