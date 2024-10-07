@@ -36,14 +36,6 @@ bottomSections:
         iconPosition: right
         style: primary
         elementId: ''
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
