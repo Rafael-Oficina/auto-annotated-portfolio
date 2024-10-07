@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: ELEMENTOR WORDPRESS
-date: '2023-11-03'
+date: ''
 client: Awesome client
 description: Página de login em PHP realizado em contexto de sala de aula.
 featuredImage:
