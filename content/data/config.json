@@ -52,7 +52,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Contactos",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": ""
             },
