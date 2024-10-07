@@ -57,5 +57,12 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 Este projeto foi realizado em para avaliação de um modulo onde tínhamos de construir um Text-based game na linguagem Python.
