@@ -315,7 +315,7 @@ sections:
         - name: firstName
           label: First Name
           hideLabel: true
-          placeholder: First Name
+          placeholder: Primeiro Nome
           isRequired: true
           width: 1/2
           type: TextFormControl
