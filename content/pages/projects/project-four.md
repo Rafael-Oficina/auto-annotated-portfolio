@@ -1,31 +1,25 @@
 ---
 type: ProjectLayout
-title: PHP LOGIN FORM
-colors: colors-a
-date: '2023-11-23'
-client: Awesome client
-description: Página de login em PHP realizado em contexto de sala de aula.
+title: ELEMENTOR WORDPRESS
+date: '2024-01-31'
+client: Rafael Martins
+description: >-
+  Construção de uma página desenvolvida com recurso aos Blocos disponibilizados
+  pelo plugin Elementor.
 featuredImage:
   type: ImageBlock
-  url: /images/Captura de ecrã 2023-11-23 164357.png
+  url: /images/smartmockups_ls7zwi7h (1).jpg
   altText: Project thumbnail image
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'https://vimeo.com/1016182566?share=copy'
+  url: 'https://vimeo.com/1017281813?share=copy'
   elementId: ''
   autoplay: false
   loop: false
   muted: false
   controls: true
   aspectRatio: '16:9'
-backgroundImage:
-  type: BackgroundImage
-  url: /images/mathias-reding-ZHqCrllTaeM-unsplash.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 30
 bottomSections:
   - type: CtaSection
     title: Download
@@ -34,7 +28,7 @@ bottomSections:
       - type: Button
         label: Clique aqui
         altText: ''
-        url: 'https://github.com/Rafael-Oficina/php-login'
+        url: 'https://github.com/Rafael-Oficina/exercicio-elementor'
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -61,4 +55,13 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
+metaTags: []
+colors: colors-a
+backgroundImage:
+  type: BackgroundImage
+  url: /images/mathias-reding-ZHqCrllTaeM-unsplash.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 30
 ---
