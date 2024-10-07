@@ -24,7 +24,7 @@ media:
   aspectRatio: '16:9'
 bottomSections:
   - type: CtaSection
-    title: Clique aqui
+    title: DOWNLOAD
     text: ''
     actions:
       - type: Button
