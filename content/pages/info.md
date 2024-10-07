@@ -177,7 +177,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
+    subtitle: 'Contacto:'
     colors: colors-f
     text: |
       <a14356@oficina.pt>            |            <rafael2007escola@gmail.com>
