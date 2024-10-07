@@ -145,7 +145,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: 'Competências profissionais:'
     items:
       - type: Label
         label: Python
