@@ -32,7 +32,7 @@ bottomSections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Clique aqui
         altText: ''
         url: 'https://github.com/Rafael-Oficina/php-login'
         showIcon: true
