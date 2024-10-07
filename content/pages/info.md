@@ -13,11 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Sou um aluno do c[urso Técnico de Gestão e Programação de Sistemas
+      Informáticos](https://oficina.pt/index.php/oferta-educativa-cursos-oficina-escola-profissional/cursos-profissionais/tecnico-de-gestao-e-prog-de-sist-informaticos)
+      na OFICINA - Escola Profissional do INA. Pretendo realizar a minha
+      Formação em Contexto de trabalho na área da programação.
+
     media:
       type: ImageBlock
       url: /images/1728158078535.png
