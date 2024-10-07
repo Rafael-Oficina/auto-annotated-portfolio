@@ -63,6 +63,6 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 100
+  opacity: 30
 ---
 Este projeto foi realizado em para avaliação de um modulo onde tínhamos de construir um Text-based game na linguagem Python.
