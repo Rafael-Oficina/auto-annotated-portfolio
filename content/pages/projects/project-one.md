@@ -34,7 +34,7 @@ bottomSections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: 'https://github.com/Rafael-Oficina/php-login'
         showIcon: true
         icon: arrowRight
         iconPosition: right
