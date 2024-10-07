@@ -25,9 +25,7 @@ media:
 bottomSections:
   - type: CtaSection
     title: Clique aqui
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: ''
     actions:
       - type: Button
         label: Try it now
