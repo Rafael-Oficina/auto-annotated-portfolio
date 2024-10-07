@@ -336,7 +336,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Conte-me sobre o seu projeto
           isRequired: true
           width: full
           type: TextareaFormControl
