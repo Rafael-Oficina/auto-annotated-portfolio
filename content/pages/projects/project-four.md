@@ -3,7 +3,9 @@ type: ProjectLayout
 title: ELEMENTOR WORDPRESS
 date: '2024-01-31'
 client: Rafael Martins
-description: Página de login em PHP realizado em contexto de sala de aula.
+description: >-
+  Construção de uma página desenvolvida com recurso aos Blocos disponibilizados
+  pelo plugin Elementor.
 featuredImage:
   type: ImageBlock
   url: /images/smartmockups_ls7zwi7h (1).jpg
