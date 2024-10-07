@@ -6,7 +6,7 @@ client: Rafael Martins
 description: Página de login em PHP realizado em contexto de sala de aula.
 featuredImage:
   type: ImageBlock
-  url: /images/Captura de ecrã 2023-11-23 164357.png
+  url: /images/smartmockups_ls7zwi7h (1).jpg
   altText: Project thumbnail image
 media:
   type: VideoBlock
