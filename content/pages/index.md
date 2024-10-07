@@ -95,7 +95,7 @@ sections:
       elementId: sign-up-form
       fields:
         - name: firstName
-          label: First Name
+          label: Primeiro Nome
           hideLabel: true
           placeholder: First Name
           isRequired: true
