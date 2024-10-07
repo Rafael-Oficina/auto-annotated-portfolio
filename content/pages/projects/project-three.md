@@ -30,7 +30,7 @@ bottomSections:
       - type: Button
         label: Clique aqui
         altText: ''
-        url: /
+        url: 'https://github.com/Rafael-Oficina/Cego-Ate_ao-Algarve'
         showIcon: true
         icon: arrowRight
         iconPosition: right
