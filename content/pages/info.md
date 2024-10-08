@@ -165,7 +165,7 @@ sections:
       - type: Label
         label: Hardware
       - type: Label
-        label: Label
+        label: PHP
         url: ''
   - type: DividerSection
     styles:
