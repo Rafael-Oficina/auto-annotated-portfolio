@@ -1,10 +1,10 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Projetos
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/mathias-reding-ZHqCrllTaeM-unsplash.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -31,7 +31,7 @@ styles:
 bottomSections:
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "Vamos falar... \U0001F4AC"
     colors: colors-f
     form:
       type: FormBlock
@@ -40,14 +40,14 @@ bottomSections:
         - name: firstName
           label: First Name
           hideLabel: true
-          placeholder: First Name
+          placeholder: Primeiro Nome
           isRequired: true
           width: 1/2
           type: TextFormControl
         - name: lastName
           label: Last Name
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Último Nome
           isRequired: false
           width: 1/2
           type: TextFormControl
@@ -61,16 +61,16 @@ bottomSections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Conte-me sobre o seu projeto
           isRequired: true
           width: full
           type: TextareaFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: Subscreva para receber a minha resposta
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Enviar \U0001F680"
       styles:
         submitLabel:
           textAlign: center
