@@ -18,41 +18,7 @@ media:
   muted: false
   controls: true
   aspectRatio: '16:9'
-bottomSections:
-  - type: CtaSection
-    title: Download
-    text: ''
-    actions:
-      - type: Button
-        label: Clique aqui
-        altText: ''
-        url: 'https://github.com/Rafael-Oficina/exercicio-elementor'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
+bottomSections: []
 metaTags: []
 colors: colors-a
 backgroundImage:
