@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Trabalho do estágio 2º ano
-date: ''
+date: '2024-03-25'
 client: Rafael Martins
 description: >-
   Construção de uma página desenvolvida com recurso aos Blocos disponibilizados
