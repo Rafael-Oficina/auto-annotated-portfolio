@@ -6,10 +6,6 @@ client: Rafael Martins
 description: >-
   Construção de uma página desenvolvida com recurso aos Blocos disponibilizados
   pelo plugin Elementor.
-featuredImage:
-  type: ImageBlock
-  url: /images/smartmockups_ls7zwi7h (1).jpg
-  altText: Project thumbnail image
 media:
   type: VideoBlock
   title: Title of the video
