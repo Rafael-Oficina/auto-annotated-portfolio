@@ -164,6 +164,9 @@ sections:
         label: SQL Server
       - type: Label
         label: Hardware
+      - type: Label
+        label: Label
+        url: ''
   - type: DividerSection
     styles:
       self:
