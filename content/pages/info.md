@@ -173,6 +173,9 @@ sections:
       - type: Label
         label: NodeJS
         url: ''
+      - type: Label
+        label: Wordpress
+        url: ''
   - type: DividerSection
     styles:
       self:
