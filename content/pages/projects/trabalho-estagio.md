@@ -5,8 +5,9 @@ date: '2024-03-25'
 client: Rafael Martins
 description: >-
   Este projeto foi desenvolvido durante o meu estágio do segundo ano, onde
-  realizei uma aplicação com o Visual Studio que se conecta a uma base de dados
-  de uma loja PrestaShop e faz a alteração dos valores e descrição dos produtos.
+  realizei uma aplicação com o Microsoft Visual Studio que se conecta a uma base
+  de dados de uma loja PrestaShop e faz a alteração dos valores e descrição dos
+  produtos.
 media:
   type: VideoBlock
   title: Title of the video
