@@ -9,7 +9,7 @@ description: >-
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'https://vimeo.com/1017281813?share=copy'
+  url: 'https://vimeo.com/1017661909?share=copy'
   elementId: ''
   autoplay: false
   loop: false
