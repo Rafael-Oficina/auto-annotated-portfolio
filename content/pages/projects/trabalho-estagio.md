@@ -5,8 +5,8 @@ date: '2024-03-25'
 client: Rafael Martins
 description: >-
   Este projeto foi desenvolvido durante o meu estágio do segundo ano, onde
-  realizei uma aplicação que se conecta a uma base de dados de uma loja
-  prestashop e faz a alteração dos valoress e 
+  realizei uma aplicação que se conecta a uma base de dados de uma loja presta
+  shoprestaShop e faz a alteração dos valores e descrição dos produtos.
 media:
   type: VideoBlock
   title: Title of the video
