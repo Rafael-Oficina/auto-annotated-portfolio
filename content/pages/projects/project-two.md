@@ -13,7 +13,7 @@ description: >-
   respetivasmúsicas.
 featuredImage:
   type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-04 155951.png
+  url: /images/Sem Título.png
   altText: ''
   caption: Caption of the image
   elementId: ''

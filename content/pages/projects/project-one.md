@@ -7,7 +7,7 @@ client: Awesome client
 description: Página de login em PHP realizado em contexto de sala de aula.
 featuredImage:
   type: ImageBlock
-  url: /images/Captura de ecrã 2023-11-23 164357.png
+  url: /images/Captura de ecrã 2024-10-08 161133.png
   altText: Project thumbnail image
 media:
   type: VideoBlock
