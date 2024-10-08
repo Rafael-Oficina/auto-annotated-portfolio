@@ -211,10 +211,6 @@ sections:
         text: >+
           *   Membro do Grupo de Jovens Maranata
 
-
-          <!---->
-
-
           *   Guitarrista no Coro Infantil de Carvalhosa
 
 
