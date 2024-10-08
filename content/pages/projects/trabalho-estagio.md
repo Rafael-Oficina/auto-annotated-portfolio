@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ELEMENTOR WORDPRESS
+title: Trabalho do estágio 2º ano
 date: '2024-01-31'
 client: Rafael Martins
 description: >-
