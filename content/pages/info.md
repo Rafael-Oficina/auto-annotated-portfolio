@@ -164,6 +164,15 @@ sections:
         label: SQL Server
       - type: Label
         label: Hardware
+      - type: Label
+        label: PHP
+        url: ''
+      - type: Label
+        label: ViewJS
+        url: ''
+      - type: Label
+        label: NodeJS
+        url: ''
   - type: DividerSection
     styles:
       self:
