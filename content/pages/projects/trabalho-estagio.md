@@ -4,8 +4,9 @@ title: Trabalho do estágio 2º ano
 date: '2024-03-25'
 client: Rafael Martins
 description: >-
-  Construção de uma página desenvolvida com recurso aos Blocos disponibilizados
-  pelo plugin Elementor.
+  Este projeto foi desenvolvido durante o meu estágio do segundo ano, onde
+  realizei uma aplicação que se conecta a uma base de dados de uma loja
+  prestashop e faz a alteração dos valoress e 
 media:
   type: VideoBlock
   title: Title of the video
