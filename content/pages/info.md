@@ -22,7 +22,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/EuQuadrado.jpg
-      altText: Hero image
+      altText: ''
     styles:
       self:
         height: auto
